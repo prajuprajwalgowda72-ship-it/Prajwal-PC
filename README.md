@@ -1,6 +1,6 @@
 [![MasterHead](https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif)](https://github.com/Siddhanth11)
 
-<h1 align="center">Hi 👋, I'm Siddhanth Sasture</h1>
+<h1 align="center">Hi 👋, I'm Prajwal PC</h1>
 <h3 align="center">Full Stack Developer | AI Enthusiast | Problem Solver from India 🇮🇳</h3>
 
 <p align="center">
