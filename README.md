@@ -1,10 +1,9 @@
 [![MasterHead](https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif)](https://github.com/Siddhanth11)
 
 <h1 align="center">Hi 👋, I'm Prajwal PC</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast | Problem Solver from India 🇮🇳</h3>
+<h3 align="center">AI Enthusiast | Problem Solver from India 🇮🇳</h3>
 
 <p align="center">
-  <img alt="Web Development" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
   <img alt="AI ML" width="350" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 </p>
 
